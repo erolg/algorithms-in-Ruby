@@ -46,6 +46,7 @@ An algorithm is a sequence of unambiguous instructions for solving a problem, i.
 ####Decrease By Constant Factor
   - [x] Binary Search
   - [ ] Exponentiation by Squaring
+  - [x] Multiplication à la russe
 
 ####Variable-Size Decrease
   - [x] Euclid Algorithm
