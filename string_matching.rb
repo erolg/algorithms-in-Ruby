@@ -12,12 +12,16 @@ def brute_force
     while j<string.length and string[j] == text[i+j] do
 
       j = j + 1
+
     end
 
     if j == string.length then
+
       return i
+
     end
   end
+
   return FALSE
 
 end
@@ -25,4 +29,4 @@ end
 
 x = brute_force()
 
-puts "#{x}"
+puts x
