@@ -17,4 +17,4 @@
 
   end
 
-  arr.each { |e| puts "#{e}"  }
+  arr.each { |e| puts e  }

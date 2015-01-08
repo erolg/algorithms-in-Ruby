@@ -10,4 +10,4 @@ end
 
 m = euclid(4, 2)
 
-puts "#{m}"
+puts m

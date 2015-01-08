@@ -24,7 +24,7 @@ arr = Array.new(n)
   end
 
   arr.each do |i|
-    puts "#{arr[i]}"
+    puts arr[i]
   end
 
 
