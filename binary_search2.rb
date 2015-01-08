@@ -14,6 +14,7 @@ def binary_search(array, value, from=0, to=nil)
   end
 end
 
+#Array must be sorted
 a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
 offset_3 = binary_search a, 3
